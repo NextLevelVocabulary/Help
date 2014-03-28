@@ -79,6 +79,13 @@ h6    {
         float: left;
         margin-right: 2px;
       }
+.custom_landscape 
+      {
+        width: 200px;
+        height: 120px;
+        float: left;
+        margin-right: 2px;
+      }
 .clearleft 
       {
         clear: left;
@@ -143,8 +150,17 @@ h6    {
 .h60  {
         height: 60px;
       }
+.h83 {
+        height: 83px;
+      }
 .h100 {
         height: 100px;
+      }
+.h143 {
+        height: 143px;
+      }
+.h153 {
+        height: 153px;
       }
 .h270 {
         height: 270px;
@@ -163,6 +179,9 @@ h6    {
       }
 .w104 {
         width: 104px;
+      }
+.w150 {
+        width: 150px;
       }
 .w172 {
         width: 172px;
